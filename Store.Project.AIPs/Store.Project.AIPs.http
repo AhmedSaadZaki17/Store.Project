@@ -1,0 +1,6 @@
+@Store.Project.AIPs_HostAddress = http://localhost:5263
+
+GET {{Store.Project.AIPs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
